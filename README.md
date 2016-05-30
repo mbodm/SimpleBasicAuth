@@ -11,6 +11,6 @@ Basic authentication in general is totally insecure. You should never use it. Ne
 
 So, there is no reason to not write this basic authentication stuff that simple and stupid, since you should not use it anyway. You can use that crap maybe for testing purposes, or demonstration purposes. Maybe. Or for your very own, very small, very insecure private projects (and not even there you should use it). But, since it is basic authentication, and therefore heavily insecure, you should never never ever use it for anything else. So, from this point of view, i do not really care about the horrible approach i used.
 
-So keep these things in mind. And just do not use software like this in your projects.
+Please keep these things in mind. And just do not use software like this in your projects.
 
 Have a nice day.
