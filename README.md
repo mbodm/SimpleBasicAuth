@@ -1,7 +1,6 @@
 # SimpleBasicAuth
 A very simple basic-auth middleware PCL for ASP.NET Core
 
-
 First: Do not use this code. It is a very bad approach to include basic authentication in an ASP.NET Core project. This PCL provides a generic middleware (and not a real authentication middleware) to handle basic authentication. If you want a more professional approach, have a look at the Odachi library by Kukkimonsuta (Lukáš Novotný).
 
 Since i had a very limited timeframe, to get something really quick and dirty, and since ASP.NET Core improved the whole authentication and authorization systems, this silly approach was my alternative to get something really plain and simple, and instant. A clean, correct and fully testable real authentication middleware just needs more time.
